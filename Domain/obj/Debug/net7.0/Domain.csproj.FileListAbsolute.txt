@@ -1,0 +1,15 @@
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.dll
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.pdb
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.dll
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.dll
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\bin\Debug\net7.0\Entities.pdb
+D:\code\c#\Projeto_Financeiro\Library\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
